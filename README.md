@@ -124,4 +124,46 @@ Debug: Displays the VR actor's IK pole in the viewport.
 
 Checkbox: Objects to filter when running Update trackers.
 
+### 2. VR Actor 
+![image](https://github.com/user-attachments/assets/4dde1109-e819-4965-b3b7-f0d6c2c529e3)
 
+Profile: Name of the new profile to save
+
+Color: Color of the VR Actor
+
+Enable Body Tracking: Enable/disable body motion tracking
+
+Enable Finger Tracking: Enable/disable finger motion tracking
+
+Hand: Select VR_Hand for finger tracking
+
+Tracker_list: List of trackers to use.
+
+Soft IK: Smooth the IK motion of the limbs. 0.6 is recommended.
+
+Soft IK Dist: Specify where Soft IK is applied. The higher the value, the weaker it is. 
+
+Smoothing Kalman: Applies a Kalman filter to the entire body motion. 
+
+Kalman Buffer Size: Buffer size for the Kalman filter. Higher values are stronger. 
+
+Shoulder Rotate: The degree to which the collarbone rotates automatically based on the position of the hand. The higher the value, the more it moves. 
+
+Arms/Legs edit: Extend the arms and legs by the specified angle.
+
+Size: Size of actor bosy
+
+### 3. Tracker Manager
+![image](https://github.com/user-attachments/assets/7a76eb2b-a798-401a-bd83-d9481c3f6591)
+
+Enable Tracking: Enable/Disable device tracking
+
+Origin Tracker: Select a tracker to use as the origin
+
+Origin: Origin coordinates
+
+Rotation Offset: Rotation offset to add when setting the origin
+
+Hand: List of finger tracks
+
+trackers: List of devices to track.
