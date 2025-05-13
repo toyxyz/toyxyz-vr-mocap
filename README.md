@@ -7,6 +7,11 @@ Developed using Unreal 5.5.
 
 ![image](https://github.com/user-attachments/assets/86d67525-ec54-4a62-91ae-34a7284a8a29)
 
+
+https://github.com/user-attachments/assets/028b23d2-e4a0-4ca3-baf2-3482bcf86a69
+
+
+
 Tutorial vidoe
 https://www.youtube.com/watch?v=4cl-22qAmv0
 
